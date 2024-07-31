@@ -16,6 +16,9 @@
 		466B170E2C58CC250025FB43 /* RxSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 466B170D2C58CC250025FB43 /* RxSwift */; };
 		466B17112C58CC460025FB43 /* SnapKit in Frameworks */ = {isa = PBXBuildFile; productRef = 466B17102C58CC460025FB43 /* SnapKit */; };
 		466B17132C58CDA30025FB43 /* Enum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 466B17122C58CDA30025FB43 /* Enum.swift */; };
+		466B17172C5A7FC40025FB43 /* AddingNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 466B17162C5A7FC40025FB43 /* AddingNumbers.swift */; };
+		466B17192C5A7FD80025FB43 /* SimpleValidation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 466B17182C5A7FD80025FB43 /* SimpleValidation.swift */; };
+		466B171B2C5A7FF60025FB43 /* SimpleTableViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 466B171A2C5A7FF60025FB43 /* SimpleTableViewExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +30,9 @@
 		466B17022C58CBB10025FB43 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		466B17042C58CBB10025FB43 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		466B17122C58CDA30025FB43 /* Enum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Enum.swift; sourceTree = "<group>"; };
+		466B17162C5A7FC40025FB43 /* AddingNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddingNumbers.swift; sourceTree = "<group>"; };
+		466B17182C5A7FD80025FB43 /* SimpleValidation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleValidation.swift; sourceTree = "<group>"; };
+		466B171A2C5A7FF60025FB43 /* SimpleTableViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleTableViewExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +75,9 @@
 				466B16FF2C58CBB10025FB43 /* Assets.xcassets */,
 				466B17012C58CBB10025FB43 /* LaunchScreen.storyboard */,
 				466B17042C58CBB10025FB43 /* Info.plist */,
+				466B17162C5A7FC40025FB43 /* AddingNumbers.swift */,
+				466B17182C5A7FD80025FB43 /* SimpleValidation.swift */,
+				466B171A2C5A7FF60025FB43 /* SimpleTableViewExample.swift */,
 			);
 			path = RxswiftPractice;
 			sourceTree = "<group>";
@@ -152,10 +161,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				466B17192C5A7FD80025FB43 /* SimpleValidation.swift in Sources */,
 				466B16FB2C58CBAD0025FB43 /* ViewController.swift in Sources */,
+				466B171B2C5A7FF60025FB43 /* SimpleTableViewExample.swift in Sources */,
 				466B16F72C58CBAD0025FB43 /* AppDelegate.swift in Sources */,
 				466B17132C58CDA30025FB43 /* Enum.swift in Sources */,
 				466B16F92C58CBAD0025FB43 /* SceneDelegate.swift in Sources */,
+				466B17172C5A7FC40025FB43 /* AddingNumbers.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
