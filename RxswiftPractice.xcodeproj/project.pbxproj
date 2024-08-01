@@ -19,6 +19,7 @@
 		466B17172C5A7FC40025FB43 /* AddingNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 466B17162C5A7FC40025FB43 /* AddingNumbers.swift */; };
 		466B17192C5A7FD80025FB43 /* SimpleValidation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 466B17182C5A7FD80025FB43 /* SimpleValidation.swift */; };
 		466B171B2C5A7FF60025FB43 /* SimpleTableViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 466B171A2C5A7FF60025FB43 /* SimpleTableViewExample.swift */; };
+		46B1CEFE2C5BD8C400AEF0DA /* CheckListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46B1CEFD2C5BD8C400AEF0DA /* CheckListViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		466B17162C5A7FC40025FB43 /* AddingNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddingNumbers.swift; sourceTree = "<group>"; };
 		466B17182C5A7FD80025FB43 /* SimpleValidation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleValidation.swift; sourceTree = "<group>"; };
 		466B171A2C5A7FF60025FB43 /* SimpleTableViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleTableViewExample.swift; sourceTree = "<group>"; };
+		46B1CEFD2C5BD8C400AEF0DA /* CheckListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckListViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				466B17162C5A7FC40025FB43 /* AddingNumbers.swift */,
 				466B17182C5A7FD80025FB43 /* SimpleValidation.swift */,
 				466B171A2C5A7FF60025FB43 /* SimpleTableViewExample.swift */,
+				46B1CEFD2C5BD8C400AEF0DA /* CheckListViewController.swift */,
 			);
 			path = RxswiftPractice;
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				466B17192C5A7FD80025FB43 /* SimpleValidation.swift in Sources */,
+				46B1CEFE2C5BD8C400AEF0DA /* CheckListViewController.swift in Sources */,
 				466B16FB2C58CBAD0025FB43 /* ViewController.swift in Sources */,
 				466B171B2C5A7FF60025FB43 /* SimpleTableViewExample.swift in Sources */,
 				466B16F72C58CBAD0025FB43 /* AppDelegate.swift in Sources */,
